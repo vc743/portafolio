@@ -1,0 +1,42 @@
+*, html{
+    scroll-behavior: smooth;
+}
+
+body{
+    padding-right: 0 !important;
+}
+
+.navbar-logo{
+    min-height: 70px;
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.hero-image{
+    max-width: 400px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.html-tag{
+    background-color: #e96228;
+}
+.css-tag{
+    background-color: #2862e9;
+}
+.javascript-tag{
+    background-color: #EFD81D;
+}
+
+.skill-img{
+    width: 80px;
+}
+
+.linkedin-icon{
+    color: #2864AB;
+}
